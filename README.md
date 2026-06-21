@@ -146,7 +146,7 @@ fun_fact: "Best Paper @ IEEE ICICGR 2026 🏆 | 1st Place @ APPTHETICS 3.0 🥇"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnupamMI&theme=dark&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+<img src="https://github-trophies.vercel.app/?username=AnupamMI&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1"/>
 
 </div>
 
