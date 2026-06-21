@@ -40,8 +40,8 @@ fun_fact: "Best Paper @ IEEE ICICGR 2026 🏆 | 1st Place @ APPTHETICS 3.0 🥇"
 |:---|:---|
 | **Best Paper Award** — Belief-State Learning in POMDPs (DRQN) | IEEE ICICGR 2026 |
 | **1st Place** — CareLink AI Health App | APPTHETICS 3.0 |
-| **Best Socially Relevant Project** — Sign Talk | — |
-| AI Skill Gap Radar (NLP) | Independent Research |
+| **Best Socially Relevant Project** — Sign Talk | Engineering Clinics Expo, VIT-AP (Fall 2025–26) — awarded by Vice Chancellor Dr. S.V. Kota Reddy |
+| AI Skill Gap Radar (NLP) | Team Project |
 
 </div>
 
