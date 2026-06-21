@@ -20,7 +20,6 @@
 name: Anupam Mishra
 role: CS Undergrad (AI & ML) @ VIT-AP University
 focus: Deep RL · NLP · GenAI/RAG Systems · Embedded ML
-leading: Technical Lead, Microsoft Student Chapter - VIT-AP
 currently_exploring: ["LLM evaluation", "RAG pipelines", "Applied research"]
 fun_fact: "Best Paper @ IEEE ICICGR 2026 🏆 | 1st Place @ APPTHETICS 3.0 🥇"
 ```
@@ -54,7 +53,7 @@ fun_fact: "Best Paper @ IEEE ICICGR 2026 🏆 | 1st Place @ APPTHETICS 3.0 🥇"
 
 | Role | Org | Period |
 |:---|:---|:---|
-| **Technical Lead** | Microsoft Student Chapter, VIT-AP | Apr 2025 – Present |
+| **Technical Lead** | Microsoft Student Chapter, VIT-AP | Apr 2025 – Apr 2026 |
 | **Core Member** | Machine Learning Club, VIT-AP | 2023 – 2024 |
 | **Web Developer** | Entrepreneurship Club, VIT-AP | 2024 |
 
