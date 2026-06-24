@@ -6,16 +6,10 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:anupsm.mishra123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/AnupamMI">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=AnupamMI&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-mishra-662b8721a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupsm.mishra123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamMI)
+![Profile Views](https://komarev.com/ghpvc/?username=AnupamMI&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
 
 </div>
 
@@ -224,17 +218,9 @@ open_to   : Research roles · Data Science · GenAI / Applied ML internships
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:anupsm.mishra123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/anupamx26">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-mishra-662b8721a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupsm.mishra123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anupamx26)
 
 <br><br>
 
