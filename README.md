@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-mishra-662b8721a/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=anupsm.mishra123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamMI)
 ![Profile Views](https://komarev.com/ghpvc/?username=AnupamMI&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
 
 </div>
@@ -15,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=CS+Undergrad+%40+VIT-AP+%E2%80%94+AI+%26+ML;IEEE+Best+Paper+Awardee+%F0%9F%8F%86+%E2%80%94+ICICGR+2026;Deep+RL+%C3%97+NLP+%C3%97+IoT+%C3%97+Mobile;1st+Place+%E2%80%94+APPTHETICS+3.0+%F0%9F%A5%87;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=AI%2FML+Intern+%40+MiMD+Lab%2C+IIT+Delhi;IEEE+Best+Paper+Awardee+%F0%9F%8F%86+%E2%80%94+ICICGR+2026;Computer+Vision+%C3%97+Deep+RL+%C3%97+NLP+%C3%97+IoT;1st+Place+%E2%80%94+APPTHETICS+3.0+%F0%9F%A5%87;Building+for+Medical+AI%2C+Always+Shipping" alt="Typing SVG" />
 </div>
 
 <br>
@@ -27,11 +28,13 @@
 ```yaml
 name      : Anupam Mishra
 location  : Lucknow, Uttar Pradesh, India
-degree    : B.Tech Computer Science (AI & ML) — VIT-AP University (2023–27)
-research  : Belief-state learning in POMDPs · NLP · Embedded Intelligence
-building  : GenAI/RAG systems · Cross-platform mobile apps · IoT devices
+degree    : B.Tech Computer Science (AI & ML) — VIT-AP University (2023–27) · CGPA 8.7/10
+currently : AI/ML Intern @ Ayukriyam Innovations (MiMD Lab, IIT Delhi)
+building  : Computer-vision pipelines for cervical cytology screening on NVIDIA Jetson AGX Orin
+research  : Belief-state learning in POMDPs · Computational pathology · Embedded intelligence
 awards    : IEEE Best Paper 2026 · APPTHETICS 3.0 Champion · Best Socially Relevant Project
-open_to   : Research roles · Data Science · GenAI / Applied ML internships
+certified : AWS Certified AI Practitioner · AWS Academy Graduate
+open_to   : Research roles · Applied ML / Computer Vision · GenAI internships
 ```
 
 <br>
@@ -55,8 +58,36 @@ open_to   : Research roles · Data Science · GenAI / Applied ML internships
 <td align="center"><b>🎖️</b></td>
 <td><b>Best Socially Relevant Project — Engineering Clinics Expo, VIT-AP</b><br><sub>Sign Talk · Awarded by Vice Chancellor Dr. S.V. Kota Reddy · Fall 2025–26</sub></td>
 </tr>
+<tr>
+<td align="center"><b>☁️</b></td>
+<td><b>AWS Certified AI Practitioner · AWS Academy Graduate</b><br><sub>Cloud Foundations & Cloud Architecting</sub></td>
+</tr>
 </table>
 
+</div>
+
+<br>
+
+---
+
+## 🩺 Currently Building
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+**AI/ML pipeline for cervical-cell cytology screening** — Ayukriyam Innovations × MiMD Lab, IIT Delhi
+
+- Developing a 4-class classification pipeline (NILM, LSIL, HSIL, SCC), deployed and benchmarked on an **NVIDIA Jetson AGX Orin**
+- Best result so far: **EfficientNet-B0 V2 — 91.94% test macro-F1 with TTA**
+- Benchmarking **RF-DETR, DETR, and DINO** transformer detectors for cervical cell detection, with CVAT-based annotation and QC
+- Authored a 54-page literature review across 20+ papers on AI in cervical cytology and computational pathology
+- Producing **IEC 62304-aligned medical device documentation** (SRTD/SVVP) for the ScopeX system — 67 requirements, full traceability
+
+</td>
+</tr>
+</table>
 </div>
 
 <br>
@@ -106,12 +137,16 @@ open_to   : Research roles · Data Science · GenAI / Applied ML internships
 
 | Role | Organisation | Period |
 |:---|:---|:---|
-| **Technical Lead** | Microsoft Student Chapter, VIT-AP | Apr 2025 – Apr 2026 |
+| **AI/ML Intern** | Ayukriyam Innovations Pvt. Ltd. — MiMD Lab, IIT Delhi | Jul 2026 – Present |
+| **Digital Outreach Intern** | Australasian Centre for Human Rights and Health (ACHRH) | Jun 2026 – Jul 2026 |
+| **Technical Team Lead** | Microsoft Student Chapter, VIT-AP | Oct 2024 – Apr 2026 |
 | **Core Member** | Machine Learning Club, VIT-AP | 2023 – 2024 |
 | **Web Developer** | Entrepreneurship Club, VIT-AP | 2024 |
 
 </div>
 
+- Contributing to an AI/ML pipeline for cervical-cell computer vision — detection, classification, dataset prep, and model evaluation for medical image analysis (see **Currently Building** above)
+- Audited the ACHRH website (structure, SEO, engagement) and designed a "Five Algorithms That Compound Into Growth" framework for the Third National Dowry Abuse Summit 2026
 - Led technical strategy for a **30-member chapter**; delivered **5+ workshops** on Git, software engineering, and Microsoft technologies
 - Implemented **3+ ML models** including an NLP chatbot (~80% accuracy) across **10+ sessions** with the ML Club
 - Shipped a club website for **100+ users**, reducing page load time ~28% via asset compression
@@ -123,17 +158,19 @@ open_to   : Research roles · Data Science · GenAI / Applied ML internships
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>🧠 &nbsp;AI / ML / Data Science</b></summary><br>
+<summary><b>🧠 &nbsp;AI / ML / Computer Vision</b></summary><br>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </details>
 
@@ -173,7 +210,9 @@ open_to   : Research roles · Data Science · GenAI / Applied ML internships
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
@@ -217,7 +256,9 @@ open_to   : Research roles · Data Science · GenAI / Applied ML internships
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-mishra-662b8721a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anupamx26)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=anupsm.mishra123@gmail.com)
 
 <br><br>
 
