@@ -1,273 +1,281 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Anupam%20Mishra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=56&descSize=19&stroke=ffffff&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6e40c9&height=260&section=header&text=Anupam%20Mishra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Medical%20AI%20Researcher%20%C2%B7%20Builder&descAlignY=56&descSize=18" width="100%"/>
+
+<a href="https://github.com/AnupamMI">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%F0%9F%A9%BA+AI%2FML+Intern+%40+MiMD+Lab%2C+IIT+Delhi;%F0%9F%8F%86+IEEE+Best+Paper+Awardee+%E2%80%94+ICICGR+2026;%F0%9F%94%AC+Computer+Vision+%C3%97+Deep+RL+%C3%97+Computational+Pathology;%F0%9F%A5%87+1st+Place+%E2%80%94+APPTHETICS+3.0;%E2%9A%A1+Building+for+Medical+AI%2C+Always+Shipping" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&to=anupsm.mishra123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/anupamx26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=AnupamMI&style=for-the-badge&color=6e40c9&label=VIEWS"/>
 
 </div>
 
-<div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-mishra-662b8721a/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=anupsm.mishra123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamMI)
-![Profile Views](https://komarev.com/ghpvc/?username=AnupamMI&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=AI%2FML+Intern+%40+MiMD+Lab%2C+IIT+Delhi;IEEE+Best+Paper+Awardee+%F0%9F%8F%86+%E2%80%94+ICICGR+2026;Computer+Vision+%C3%97+Deep+RL+%C3%97+NLP+%C3%97+IoT;1st+Place+%E2%80%94+APPTHETICS+3.0+%F0%9F%A5%87;Building+for+Medical+AI%2C+Always+Shipping" alt="Typing SVG" />
-</div>
-
-<br>
-
----
-
-## ⚡ Quick Profile
-
-```yaml
-name      : Anupam Mishra
-location  : Lucknow, Uttar Pradesh, India
-degree    : B.Tech Computer Science (AI & ML) — VIT-AP University (2023–27) · CGPA 8.7/10
-currently : AI/ML Intern @ Ayukriyam Innovations (MiMD Lab, IIT Delhi)
-building  : Computer-vision pipelines for cervical cytology screening on NVIDIA Jetson AGX Orin
-research  : Belief-state learning in POMDPs · Computational pathology · Embedded intelligence
-awards    : IEEE Best Paper 2026 · APPTHETICS 3.0 Champion · Best Socially Relevant Project
-certified : AWS Certified AI Practitioner · AWS Academy Graduate
-open_to   : Research roles · Applied ML / Computer Vision · GenAI internships
-```
-
-<br>
-
----
-
-## 🏆 Recognition
-
-<div align="center">
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> &nbsp;About Me
 
 <table>
 <tr>
-<td align="center" width="60"><b>🥇</b></td>
-<td><b>Best Paper Award — IEEE ICICGR 2026</b><br><sub>IEEE Maharashtra Section · Belief-State Learning in POMDPs using DRQN · Apr 2026</sub></td>
-</tr>
-<tr>
-<td align="center"><b>🏅</b></td>
-<td><b>1st Place — APPTHETICS 3.0</b><br><sub>Android Club × IIEC, VIT-AP · CareLink AI Health App · Mar 2026</sub></td>
-</tr>
-<tr>
-<td align="center"><b>🎖️</b></td>
-<td><b>Best Socially Relevant Project — Engineering Clinics Expo, VIT-AP</b><br><sub>Sign Talk · Awarded by Vice Chancellor Dr. S.V. Kota Reddy · Fall 2025–26</sub></td>
-</tr>
-<tr>
-<td align="center"><b>☁️</b></td>
-<td><b>AWS Certified AI Practitioner · AWS Academy Graduate</b><br><sub>Cloud Foundations & Cloud Architecting</sub></td>
+<td width="55%" valign="top">
+
+I build **computer-vision systems for medical diagnostics** — currently AI-assisted cervical cytology screening that runs on the edge (NVIDIA Jetson AGX Orin), backed by **IEC 62304-aligned** medical device documentation.
+
+On the research side, I work on **belief-state learning in POMDPs** with deep recurrent RL — work that earned an **IEEE Best Paper Award**.
+
+- 🔭 &nbsp;Detection & classification pipelines for cervical cytology
+- 🧠 &nbsp;Deep RL · Computational pathology · Embedded AI
+- 🎯 &nbsp;Open to **research roles, applied ML / CV, GenAI internships**
+- 📍 &nbsp;Lucknow, Uttar Pradesh, India
+
+</td>
+<td width="45%" valign="top">
+
+```yaml
+name     : Anupam Mishra
+degree   : B.Tech CSE (AI & ML)
+college  : VIT-AP University
+batch    : 2023 – 2027
+cgpa     : 8.7 / 10
+now      : AI/ML Intern
+           @ Ayukriyam × MiMD Lab,
+             IIT Delhi
+certs    : AWS AI Practitioner
+           AWS Academy Graduate
+```
+
+</td>
 </tr>
 </table>
 
-</div>
-
-<br>
-
----
-
-## 🩺 Currently Building
+<!-- ═══════════════════════════ RECOGNITION ═══════════════════════════ -->
+## 🏆 &nbsp;Recognition
 
 <div align="center">
 <table>
 <tr>
-<td width="100%">
-
-**AI/ML pipeline for cervical-cell cytology screening** — Ayukriyam Innovations × MiMD Lab, IIT Delhi
-
-- Developing a 4-class classification pipeline (NILM, LSIL, HSIL, SCC), deployed and benchmarked on an **NVIDIA Jetson AGX Orin**
-- Best result so far: **EfficientNet-B0 V2 — 91.94% test macro-F1 with TTA**
-- Benchmarking **RF-DETR, DETR, and DINO** transformer detectors for cervical cell detection, with CVAT-based annotation and QC
-- Authored a 54-page literature review across 20+ papers on AI in cervical cytology and computational pathology
-- Producing **IEC 62304-aligned medical device documentation** (SRTD/SVVP) for the ScopeX system — 67 requirements, full traceability
-
+<td align="center" width="33%">
+<h1>🥇</h1>
+<b>Best Paper Award</b><br/>
+<sub>IEEE ICICGR 2026<br/>IEEE Maharashtra Section<br/><i>Apr 2026</i></sub>
+</td>
+<td align="center" width="33%">
+<h1>🏅</h1>
+<b>1st Place — APPTHETICS 3.0</b><br/>
+<sub>Android Club × IIEC, VIT-AP<br/>CareLink AI Health App<br/><i>Mar 2026</i></sub>
+</td>
+<td align="center" width="33%">
+<h1>🎖️</h1>
+<b>Best Socially Relevant Project</b><br/>
+<sub>Engineering Clinics Expo, VIT-AP<br/>Sign Talk · Presented by the VC<br/><i>Fall 2025–26</i></sub>
 </td>
 </tr>
 </table>
 </div>
 
-<br>
+<!-- ═══════════════════════════ CURRENTLY BUILDING ═══════════════════════════ -->
+## 🩺 &nbsp;Currently Building
 
----
-
-## 📄 Publication
+> ### AI pipeline for cervical-cell cytology screening
+> **Ayukriyam Innovations × MiMD Lab, IIT Delhi** &nbsp;·&nbsp; Jul 2026 – Present
 
 <div align="center">
 
-> **Belief-State Learning in Partially Observable Environments using DRQN**
->
-> *IEEE ICICGR 2026 — IEEE Maharashtra Section, SSGMCE Shegaon*
->
-> Proposed and evaluated a Deep Recurrent Q-Network (DRQN) architecture for belief-state estimation in Partially Observable Markov Decision Process (POMDP) environments. DRQN achieved **~23% higher cumulative reward** over the DQN baseline across **16 independent training seeds**.
->
-> Supervised by **Dr. Lakhan Dev Sharma**, VIT-AP University &nbsp;·&nbsp; 🏆 **Best Paper Award**
+<img src="https://img.shields.io/badge/Macro--F1-91.94%25-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classes-NILM·LSIL·HSIL·SCC-6e40c9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Edge-Jetson_AGX_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docs-IEC_62304-0ea5e9?style=for-the-badge"/>
 
 </div>
 
-<br>
+| | Workstream | Highlights |
+|:-:|:--|:--|
+| 🔬 | **Classification** | 4-class pipeline benchmarked on Jetson AGX Orin · best: **EfficientNet-B0 V2, 91.94% test macro-F1 with TTA** |
+| 🎯 | **Detection** | Benchmarking **RF-DETR, DETR, DINO** transformer detectors · CVAT-based annotation & QC |
+| 📚 | **Research** | 54-page literature review across 20+ papers on AI in cervical cytology & computational pathology |
+| 📋 | **Regulatory** | IEC 62304-aligned SRTD / SVVP for the **ScopeX** system · 67 requirements, full traceability |
 
----
+<!-- ═══════════════════════════ PUBLICATION ═══════════════════════════ -->
+## 📄 &nbsp;Publication
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td>
+
+### Belief-State Learning in Partially Observable Environments using DRQN
+<sub>📍 IEEE ICICGR 2026 — IEEE Maharashtra Section, SSGMCE Shegaon &nbsp;·&nbsp; 👨‍🏫 Supervised by Dr. Lakhan Dev Sharma, VIT-AP</sub>
+
+A Deep Recurrent Q-Network architecture for belief-state estimation in POMDP environments.
+
+<img src="https://img.shields.io/badge/↑_~23%25-cumulative_reward_vs_DQN-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/16-independent_seeds-6e40c9?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏆-Best_Paper_Award-f59e0b?style=flat-square"/>
+&nbsp;&nbsp;<a href="https://github.com/AnupamMI/DRQN_POMDP_Project"><b>→ Code</b></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [CareLink — AI Health App](https://github.com/AnupamMI/CareLink)
+<img src="https://img.shields.io/badge/🥇_1st_Place-APPTHETICS_3.0-f59e0b?style=flat-square"/>
+
+Six modules: medication tracking, fitness monitoring, an AI health assistant and the proprietary **CareScore** metric.
+
+`React Native` `Expo` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Deep RL Research Platform](https://github.com/AnupamMI/DRQN_POMDP_Project)
+<img src="https://img.shields.io/badge/🏆_Best_Paper-IEEE_ICICGR_2026-6e40c9?style=flat-square"/>
+
+Configurable POMDP gridworld comparing DQN vs DRQN across 16 seeds.
+
+`Python` `PyTorch` `LSTM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧤 [Sign Talk — Sign Language Glove](https://github.com/AnupamMI/Smart-Glove-Safety-Device)
+<img src="https://img.shields.io/badge/🎖️_Best_Socially_Relevant-Project-0ea5e9?style=flat-square"/>
+
+Wearable multi-sensor fusion that turns ASL gestures into real-time text.
+
+`C++` `Arduino` `IoT`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [AI Skill Gap Radar](https://github.com/AnupamMI/skill-gap-radar)
+
+NLP resume parsing + cosine similarity to map competencies to job roles and generate ranked learning paths.
+
+`Python` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [AI Contract Analyzer](https://github.com/AnupamMI/ai-contract-analyzer)
+
+Automatically flags key clauses and legal risks in contracts.
+
+`Python` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [NLP Chatbot](https://github.com/AnupamMI/ChatBot)
+
+Intent-recognition chatbot with ~80% accuracy.
+
+`Python` `NLP`
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+## 💼 &nbsp;Experience
+
+```diff
++ Jul 2026 – Present   AI/ML Intern · Ayukriyam Innovations — MiMD Lab, IIT Delhi
+```
+Cervical-cell CV pipeline: detection, classification, dataset prep, evaluation and regulatory documentation.
+
+```diff
++ Jun 2026 – Jul 2026  Digital Outreach Intern · Australasian Centre for Human Rights and Health
+```
+Audited the ACHRH site (structure, SEO, engagement); designed the *"Five Algorithms That Compound Into Growth"* framework for the Third National Dowry Abuse Summit 2026.
+
+```diff
++ Oct 2024 – Apr 2026  Technical Team Lead · Microsoft Student Chapter, VIT-AP
+```
+Led technical strategy for a **30-member** chapter; delivered **5+ workshops** on Git, software engineering and Microsoft tech.
+
+```diff
++ 2023 – 2024          Core Member · Machine Learning Club, VIT-AP
++ 2024                 Web Developer · Entrepreneurship Club, VIT-AP
+```
+Built **3+ ML models** across **10+ sessions**; shipped a club site for **100+ users** with ~28% faster page loads.
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-| &nbsp; | Project | What it does | Stack |
-|:---:|:---|:---|:---|
-| 🩺 | [**CareLink — AI Health App**](https://github.com/AnupamMI/CareLink) | **🥇 1st Place, APPTHETICS 3.0** · 6 modules: medication tracking, fitness monitoring, AI health assistant, proprietary CareScore metric | `React Native` `Expo` `TypeScript` |
-| 🧠 | [**Deep RL Research Platform**](https://github.com/AnupamMI/DRQN_POMDP_Project) | Configurable POMDP gridworld; DQN vs DRQN across 16 seeds · **Best Paper, IEEE ICICGR 2026** | `Python` `PyTorch` `LSTM` |
-| 🧤 | [**Sign Talk — Sign Language Glove**](https://github.com/AnupamMI/Smart-Glove-Safety-Device) | **🎖️ Best Socially Relevant Project** · Wearable multi-sensor fusion converting ASL gestures to real-time text | `C++` `Arduino` `IoT` |
-| 📊 | [**AI Skill Gap Radar**](https://github.com/AnupamMI/skill-gap-radar) | NLP resume parsing + cosine similarity to map competencies to job roles and generate ranked learning paths | `Python` `NLP` |
-| 💬 | [**NLP Chatbot**](https://github.com/AnupamMI/ChatBot) | Intent-recognition chatbot achieving ~80% accuracy | `Python` `NLP` |
-| 📋 | [**AI Contract Analyzer**](https://github.com/AnupamMI/ai-contract-analyzer) | Automatically flags key clauses and legal risks using NLP | `Python` `NLP` |
+**🧠 AI · ML · Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&perline=10"/>
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+
+<br/><br/>
+
+**🌐 Web & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html&perline=10"/>
+
+<br/><br/>
+
+**⚙️ Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,postgres,mongodb,firebase,supabase,sqlite&perline=10"/>
+
+<br/><br/>
+
+**🔧 Hardware · Cloud · DevOps · Tools**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,java,aws,docker,git,githubactions,linux,figma,notion&perline=11"/>
 
 </div>
 
-<br>
-
----
-
-## 💼 Experience
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-| Role | Organisation | Period |
-|:---|:---|:---|
-| **AI/ML Intern** | Ayukriyam Innovations Pvt. Ltd. — MiMD Lab, IIT Delhi | Jul 2026 – Present |
-| **Digital Outreach Intern** | Australasian Centre for Human Rights and Health (ACHRH) | Jun 2026 – Jul 2026 |
-| **Technical Team Lead** | Microsoft Student Chapter, VIT-AP | Oct 2024 – Apr 2026 |
-| **Core Member** | Machine Learning Club, VIT-AP | 2023 – 2024 |
-| **Web Developer** | Entrepreneurship Club, VIT-AP | 2024 |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnupamMI&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamMI&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0f0c29&title_color=a78bfa"/>
+
+<img src="https://streak-stats.demolab.com/?user=AnupamMI&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamMI&bg_color=0f0c29&color=a78bfa&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="100%"/>
 
 </div>
 
-- Contributing to an AI/ML pipeline for cervical-cell computer vision — detection, classification, dataset prep, and model evaluation for medical image analysis (see **Currently Building** above)
-- Audited the ACHRH website (structure, SEO, engagement) and designed a "Five Algorithms That Compound Into Growth" framework for the Third National Dowry Abuse Summit 2026
-- Led technical strategy for a **30-member chapter**; delivered **5+ workshops** on Git, software engineering, and Microsoft technologies
-- Implemented **3+ ML models** including an NLP chatbot (~80% accuracy) across **10+ sessions** with the ML Club
-- Shipped a club website for **100+ users**, reducing page load time ~28% via asset compression
-
-<br>
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>🧠 &nbsp;AI / ML / Computer Vision</b></summary><br>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🌐 &nbsp;Web & Mobile</b></summary><br>
-
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ &nbsp;Backend & Databases</b></summary><br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔧 &nbsp;Hardware, Tools & DevOps</b></summary><br>
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</details>
-
-<br>
-
----
-
-## 📊 GitHub Stats
-
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnupamMI&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true"/>
-&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamMI&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&card_width=300"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=AnupamMI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-[![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnupamMI&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AnupamMI)
-
-</div>
-
-<br>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-mishra-662b8721a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anupamx26)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=anupsm.mishra123@gmail.com)
-
-<br><br>
+### 🤝 Let's build something meaningful
 
 *Open to research collaborations, applied ML roles, and interesting builds.*
 
-</div>
+<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&to=anupsm.mishra123@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
 </div>
