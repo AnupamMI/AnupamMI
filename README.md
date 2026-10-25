@@ -86,6 +86,19 @@ cgpa : 8.7 / 10
 | 📚 | **Research** | 54-page literature review across 20+ papers on AI in cervical cytology and computational pathology |
 | 📋 | **Regulatory** | IEC 62304-aligned SRTD / SVVP for the **ScopeX** system: 67 requirements with full traceability |
 
+<br/>
+
+**🖍️ Annotation Platform** &nbsp;·&nbsp; *Personal project* &nbsp;·&nbsp; <img src="https://img.shields.io/badge/status-in_development-f59e0b?style=flat-square"/>
+
+An AI-native computer-vision annotation platform built to be a better alternative to CVAT, starting with cytology and whole-slide images and designed to work for any dataset.
+
+- ✏️ **Annotator-first labeling:** freehand add/remove region mask editing, with labeling decisions kept with the human annotator
+- 🔬 **Whole-slide image support:** tiled pyramids, resumable uploads, and slide/patient-level dataset splits
+- 🤖 **Agentic data management:** AI agents track slides, tiles and progress, import annotated data, and surface analytics like time per image
+- 📦 **Dataset engineering:** versioning, review workflow, and YOLO / COCO export
+
+<sub>`React` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `MinIO` `Docker`</sub>
+
 <!-- ═══════════════════════════ PUBLICATION ═══════════════════════════ -->
 ## 📄 Publication
 
