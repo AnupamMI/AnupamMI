@@ -129,7 +129,7 @@ Medication tracking, fitness monitoring, an AI health assistant and the **CareSc
 <tr>
 <td width="50%" valign="top">
 
-#### 🔊 [J.A.R.V.I.S. Voice Dashboard](https://github.com/AnupamMI/REPLACE-WITH-REPO-NAME)
+#### 🔊 [J.A.R.V.I.S. Voice Dashboard](https://github.com/AnupamMI/Jarvis)
 Browser voice assistant with a voice-reactive Three.js orb, speech in/out and Groq-powered LLM commands.<br/>
 <sub>`React` `Three.js` `Web Speech API` `Groq`</sub>
 
