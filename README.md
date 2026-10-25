@@ -3,11 +3,10 @@
 <img src="./assets/banner.svg" alt="Anupam Mishra" width="100%"/></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anupsm.mishra123@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=flat-square&logo=gmail&logoColor=0b1020"/></a>
-  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_to-Research_·_Applied_ML_·_CV-a78bfa?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=AnupamMI&style=flat-square&color=22d3ee&label=profile+views"/>
+  <a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="https://img.shields.io/badge/LinkedIn-1e2540?style=for-the-badge&logo=linkedin&logoColor=60a5fa"/></a>
+  <a href="mailto:anupsm.mishra123@gmail.com"><img src="https://img.shields.io/badge/Email-1e2540?style=for-the-badge&logo=gmail&logoColor=22d3ee"/></a>
+  <img src="https://img.shields.io/badge/☁_AWS_AI_Practitioner-1e2540?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✦_Open_to_Research_·_ML_·_CV-1e2540?style=for-the-badge"/>
 </p>
 
 <br/>
@@ -189,6 +188,6 @@ Wearable multi-sensor fusion that turns ASL gestures into real-time text. 🎖�
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
   <i>Open to research collaborations, applied ML / CV roles and interesting builds.</i><br/><br/>
-  <a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anupsm.mishra123@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-22d3ee?style=for-the-badge&logo=gmail&logoColor=0b1020"/></a>
+  <a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1e2540?style=for-the-badge&logo=linkedin&logoColor=60a5fa"/></a>
+  <a href="mailto:anupsm.mishra123@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-1e2540?style=for-the-badge&logo=gmail&logoColor=22d3ee"/></a>
 </p>
