@@ -1,7 +1,6 @@
 <!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Anupam Mishra — AI/ML Engineer · Medical AI" width="100%"/>
-</p>
+<img src="./assets/banner.svg" alt="Anupam Mishra" width="100%"/></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
