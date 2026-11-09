@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="https://img.shields.io/badge/LinkedIn-121933?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="https://img.shields.io/badge/Email-121933?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>&nbsp;<a href="https://annotation-exe.onrender.com"><img src="https://img.shields.io/badge/Annotation_ExE-121933?style=for-the-badge&logo=render&logoColor=67E8F9"/></a>&nbsp;<img src="https://img.shields.io/badge/Open_to_Research-121933?style=for-the-badge&logo=googlescholar&logoColor=A78BFA"/>
+<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="46" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="46" alt="Email"/></a>&nbsp;<a href="https://annotation-exe.onrender.com/demo/"><img src="./btn-demo.svg" height="46" alt="Live demo"/></a>&nbsp;<img src="./btn-research.svg" height="46" alt="Open to research"/>
 
 <sub>Lucknow, India &nbsp;·&nbsp; B.Tech CSE (AI & ML), VIT-AP '27 &nbsp;·&nbsp; CGPA 8.7 / 10</sub>
 
@@ -16,27 +16,24 @@ I build **computer-vision systems for medical diagnostics**. Right now I'm worki
 
 On the research side, I work on **belief-state learning in POMDPs** with deep recurrent RL. That work received an **IEEE Best Paper Award**.
 
-<br/>
-<img src="./divider.svg" width="100%"/>
+<br/><br/>
 
-### Now
+<img src="./h-now.svg" width="100%" alt="Now"/>
 
 **AI/ML Intern** &nbsp;·&nbsp; Ayukriyam Innovations × MiMD Lab, IIT Delhi  
 <sub>Cervical cytology classification · detection · dataset engineering</sub>
 
 **Focus** &nbsp;→&nbsp; `Computer Vision` &nbsp;`Deep RL` &nbsp;`Computational Pathology` &nbsp;`Edge AI`
 
-<br/>
-<img src="./divider.svg" width="100%"/>
+<br/><br/>
 
-### Highlights
+<img src="./h-highlights.svg" width="100%" alt="Highlights"/>
 
 <img src="./highlights.svg" width="100%" alt="IEEE Best Paper Award 2026 · 91.94% macro-F1 on Jetson Orin · 1st place APPTHETICS 3.0 · Best Socially Relevant Project"/>
 
-<br/>
-<img src="./divider.svg" width="100%"/>
+<br/><br/>
 
-### Currently Building
+<img src="./h-building.svg" width="100%" alt="Currently Building"/>
 
 **Cervical-cell Cytology Screening Pipeline**  
 <sub>Ayukriyam × MiMD Lab, IIT Delhi &nbsp;·&nbsp; Jul 2026 – Present</sub>
@@ -49,10 +46,9 @@ On the research side, I work on **belief-state learning in POMDPs** with deep re
 A full-stack image annotation platform for whole-slide images and general computer vision. It streams gigapixel slides as on-demand tiles and supports YOLO / COCO / CVAT.  
 `React` `TypeScript` `FastAPI` `PostgreSQL + PostGIS` `Docker`
 
-<br/>
-<img src="./divider.svg" width="100%"/>
+<br/><br/>
 
-### Publication
+<img src="./h-publication.svg" width="100%" alt="Publication"/>
 
 **Belief-State Learning in Partially Observable Environments using DRQN**  
 <sub>IEEE ICICGR 2026 &nbsp;·&nbsp; Best Paper Award</sub>
@@ -60,10 +56,9 @@ A full-stack image annotation platform for whole-slide images and general comput
 A Deep Recurrent Q-Network for belief-state estimation in POMDPs, with **~23% higher cumulative reward** than DQN across 16 independent seeds.  
 → [View Code](https://github.com/AnupamMI/DRQN_POMDP_Project)
 
-<br/>
-<img src="./divider.svg" width="100%"/>
+<br/><br/>
 
-### Selected Projects
+<img src="./h-projects.svg" width="100%" alt="Selected Projects"/>
 
 <table>
   <tr>
@@ -92,10 +87,9 @@ A Deep Recurrent Q-Network for belief-state estimation in POMDPs, with **~23% hi
   </tr>
 </table>
 
-<br/>
-<img src="./divider.svg" width="100%"/>
+<br/><br/>
 
-### Experience
+<img src="./h-experience.svg" width="100%" alt="Experience"/>
 
 | Period | Role |
 |:--|:--|
@@ -104,10 +98,9 @@ A Deep Recurrent Q-Network for belief-state estimation in POMDPs, with **~23% hi
 | **Oct 2024 – Apr 2026** | Technical Team Lead · Microsoft Student Chapter, VIT-AP |
 | **2023 – 2024** | Core Member · Machine Learning Club, VIT-AP |
 
-<br/>
-<img src="./divider.svg" width="100%"/>
+<br/><br/>
 
-### Tech Stack
+<img src="./h-stack.svg" width="100%" alt="Tech Stack"/>
 
 | Domain | Tools |
 |:--|:--|
@@ -124,6 +117,6 @@ A Deep Recurrent Q-Network for belief-state estimation in POMDPs, with **~23% hi
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:anupsm.mishra123@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://annotation-exe.onrender.com/demo/">Live Demo</a>
+<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="40" alt="Email"/></a>&nbsp;<a href="https://annotation-exe.onrender.com/demo/"><img src="./btn-demo.svg" height="40" alt="Live demo"/></a>
 
 </div>
