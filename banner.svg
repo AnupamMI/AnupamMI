@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Anupam Mishra — AI/ML Engineer, Computer Vision, Medical AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B17"/><stop offset=".55" stop-color="#0E1430"/><stop offset="1" stop-color="#090D1C"/>
+    </linearGradient>
+    <radialGradient id="glowV" cx=".76" cy=".42" r=".42">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity=".38"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx=".12" cy=".9" r=".5">
+      <stop offset="0" stop-color="#0891B2" stop-opacity=".22"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#C7D2FE"/>
+    </linearGradient>
+    <radialGradient id="core" cx=".38" cy=".32" r=".75">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity=".30"/><stop offset=".6" stop-color="#312E81" stop-opacity=".18"/><stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity=".25"/>
+    </linearGradient>
+    <linearGradient id="fadeX" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="gridMask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
+    <mask id="gridMaskX"><rect width="1200" height="340" fill="url(#fadeX)"/></mask>
+    <clipPath id="floor"><rect x="0" y="214" width="1200" height="126"/></clipPath>
+    <clipPath id="frame"><rect width="1200" height="340" rx="22"/></clipPath>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+    <style>
+      .grid line { stroke:#6D7BFF; stroke-opacity:.22; stroke-width:1; }
+      .sphere ellipse { fill:none; stroke:url(#ink); stroke-width:1.1; }
+      .lat ellipse { stroke-opacity:.45; }
+      .twinkle { animation: tw 4s ease-in-out infinite; }
+      .t2 { animation-delay:-1.3s } .t3 { animation-delay:-2.6s }
+      @keyframes tw { 0%,100% { opacity:.25 } 50% { opacity:1 } }
+      .float { animation: fl 7s ease-in-out infinite; transform-box: fill-box; }
+      @keyframes fl { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-6px) } }
+      .rise { animation: rise 1.2s ease-out both; }
+      .rise2 { animation: rise 1.2s .25s ease-out both; }
+      .rise3 { animation: rise 1.2s .5s ease-out both; }
+      @keyframes rise { from { opacity:0; transform: translateY(8px) } to { opacity:1; transform: translateY(0) } }
+      .scan { animation: scan 6s linear infinite; }
+      @keyframes scan { from { transform: translateY(0) } to { transform: translateY(15.8px) } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#glowV)"/>
+    <rect width="1200" height="340" fill="url(#glowC)"/>
+
+    <!-- perspective floor -->
+    <g mask="url(#gridMaskX)"><g mask="url(#gridMask)"><g clip-path="url(#floor)" class="grid">
+      <line x1="860" y1="200" x2="-960" y2="340"/>
+      <line x1="860" y1="200" x2="-830" y2="340"/>
+      <line x1="860" y1="200" x2="-700" y2="340"/>
+      <line x1="860" y1="200" x2="-570" y2="340"/>
+      <line x1="860" y1="200" x2="-440" y2="340"/>
+      <line x1="860" y1="200" x2="-310" y2="340"/>
+      <line x1="860" y1="200" x2="-180" y2="340"/>
+      <line x1="860" y1="200" x2="-50" y2="340"/>
+      <line x1="860" y1="200" x2="80" y2="340"/>
+      <line x1="860" y1="200" x2="210" y2="340"/>
+      <line x1="860" y1="200" x2="340" y2="340"/>
+      <line x1="860" y1="200" x2="470" y2="340"/>
+      <line x1="860" y1="200" x2="600" y2="340"/>
+      <line x1="860" y1="200" x2="730" y2="340"/>
+      <line x1="860" y1="200" x2="860" y2="340"/>
+      <line x1="860" y1="200" x2="990" y2="340"/>
+      <line x1="860" y1="200" x2="1120" y2="340"/>
+      <line x1="860" y1="200" x2="1250" y2="340"/>
+      <line x1="860" y1="200" x2="1380" y2="340"/>
+      <line x1="860" y1="200" x2="1510" y2="340"/>
+      <line x1="860" y1="200" x2="1640" y2="340"/>
+      <line x1="860" y1="200" x2="1770" y2="340"/>
+      <line x1="860" y1="200" x2="1900" y2="340"/>
+      <line x1="860" y1="200" x2="2030" y2="340"/>
+      <line x1="860" y1="200" x2="2160" y2="340"/>
+      <line x1="860" y1="200" x2="2290" y2="340"/>
+      <line x1="860" y1="200" x2="2420" y2="340"/>
+      <line x1="860" y1="200" x2="2550" y2="340"/>
+      <line x1="860" y1="200" x2="2680" y2="340"/>
+      <line x1="0" y1="215.6" x2="1200" y2="215.6"/>
+      <line x1="0" y1="220.9" x2="1200" y2="220.9"/>
+      <line x1="0" y1="230.1" x2="1200" y2="230.1"/>
+      <line x1="0" y1="243.4" x2="1200" y2="243.4"/>
+      <line x1="0" y1="261.0" x2="1200" y2="261.0"/>
+      <line x1="0" y1="282.9" x2="1200" y2="282.9"/>
+      <line x1="0" y1="309.2" x2="1200" y2="309.2"/>
+      <line x1="0" y1="340.0" x2="1200" y2="340.0"/>
+    </g></g></g>
+    <line x1="0" y1="214" x2="1200" y2="214" stroke="url(#ink)" stroke-opacity=".35"/>
+
+    <!-- stars -->
+    <g fill="#C7D2FE">
+      <circle class="twinkle" cx="640" cy="52" r="1.2"/><circle class="twinkle t2" cx="720" cy="96" r="1"/>
+      <circle class="twinkle t3" cx="1100" cy="60" r="1.3"/><circle class="twinkle" cx="1050" cy="190" r="1"/>
+      <circle class="twinkle t2" cx="560" cy="150" r="0.9"/><circle class="twinkle t3" cx="760" cy="30" r="1"/>
+      <circle class="twinkle t2" cx="1150" cy="130" r="1"/><circle class="twinkle" cx="690" cy="180" r="0.8"/>
+    </g>
+
+    <!-- 3D globe -->
+    <ellipse cx="900" cy="220" rx="120" ry="12" fill="#7C3AED" opacity=".35" filter="url(#soft)"/>
+    <g class="float">
+      <circle cx="900" cy="148" r="110" fill="#7C3AED" opacity=".10" filter="url(#soft)"/>
+      <circle cx="900" cy="148" r="92" fill="url(#core)"/>
+      <g class="sphere" transform="rotate(-16 900 148)">
+        <g class="lat">
+        <ellipse cx="900" cy="72.6" rx="52.8" ry="11.6"/>
+        <ellipse cx="900" cy="104.8" rx="81.2" ry="17.9"/>
+        <ellipse cx="900" cy="148.0" rx="92.0" ry="20.2"/>
+        <ellipse cx="900" cy="191.2" rx="81.2" ry="17.9"/>
+        <ellipse cx="900" cy="223.4" rx="52.8" ry="11.6"/>
+        </g>
+        <ellipse cx="900" cy="148" rx="92" ry="92"><animate attributeName="rx" values="92.0;79.7;46.0;0.0;46.0;79.7;92.0;79.7;46.0;0.0;46.0;79.7;92.0" dur="12s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.25;0.62;0.90;1.00;0.90;0.62;0.25;0.25;0.25;0.25;0.25;0.25;0.25" dur="12s" begin="0.00s" repeatCount="indefinite"/></ellipse>
+        <ellipse cx="900" cy="148" rx="92" ry="92"><animate attributeName="rx" values="92.0;79.7;46.0;0.0;46.0;79.7;92.0;79.7;46.0;0.0;46.0;79.7;92.0" dur="12s" begin="-2.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.25;0.62;0.90;1.00;0.90;0.62;0.25;0.25;0.25;0.25;0.25;0.25;0.25" dur="12s" begin="-2.00s" repeatCount="indefinite"/></ellipse>
+        <ellipse cx="900" cy="148" rx="92" ry="92"><animate attributeName="rx" values="92.0;79.7;46.0;0.0;46.0;79.7;92.0;79.7;46.0;0.0;46.0;79.7;92.0" dur="12s" begin="-4.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.25;0.62;0.90;1.00;0.90;0.62;0.25;0.25;0.25;0.25;0.25;0.25;0.25" dur="12s" begin="-4.00s" repeatCount="indefinite"/></ellipse>
+        <ellipse cx="900" cy="148" rx="92" ry="92"><animate attributeName="rx" values="92.0;79.7;46.0;0.0;46.0;79.7;92.0;79.7;46.0;0.0;46.0;79.7;92.0" dur="12s" begin="-6.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.25;0.62;0.90;1.00;0.90;0.62;0.25;0.25;0.25;0.25;0.25;0.25;0.25" dur="12s" begin="-6.00s" repeatCount="indefinite"/></ellipse>
+        <ellipse cx="900" cy="148" rx="92" ry="92"><animate attributeName="rx" values="92.0;79.7;46.0;0.0;46.0;79.7;92.0;79.7;46.0;0.0;46.0;79.7;92.0" dur="12s" begin="-8.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.25;0.62;0.90;1.00;0.90;0.62;0.25;0.25;0.25;0.25;0.25;0.25;0.25" dur="12s" begin="-8.00s" repeatCount="indefinite"/></ellipse>
+        <ellipse cx="900" cy="148" rx="92" ry="92"><animate attributeName="rx" values="92.0;79.7;46.0;0.0;46.0;79.7;92.0;79.7;46.0;0.0;46.0;79.7;92.0" dur="12s" begin="-10.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.25;0.62;0.90;1.00;0.90;0.62;0.25;0.25;0.25;0.25;0.25;0.25;0.25" dur="12s" begin="-10.00s" repeatCount="indefinite"/></ellipse>
+        <circle cx="900" cy="148" r="92" fill="none" stroke="url(#ink)" stroke-width="1.6"/>
+      </g>
+      <!-- orbit -->
+      <g transform="rotate(-14 900 148)">
+        <ellipse id="orbit" cx="900" cy="148" rx="150" ry="30" fill="none" stroke="#A78BFA" stroke-opacity=".35" stroke-dasharray="2 6"/>
+        <circle r="4.5" fill="#67E8F9">
+          <animateMotion dur="9s" repeatCount="indefinite" path="M750,148 a150,30 0 1,0 300,0 a150,30 0 1,0 -300,0"/>
+        </circle>
+        <circle r="10" fill="#67E8F9" opacity=".25" filter="url(#soft)">
+          <animateMotion dur="9s" repeatCount="indefinite" path="M750,148 a150,30 0 1,0 300,0 a150,30 0 1,0 -300,0"/>
+        </circle>
+      </g>
+    </g>
+
+    <!-- text -->
+    <g font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+      <text class="rise" x="84" y="104" font-family="'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="3" fill="#67E8F9" fill-opacity=".85">HELLO, I'M</text>
+      <text class="rise2" x="80" y="166" font-size="62" font-weight="700" letter-spacing="-1" fill="url(#name)">Anupam Mishra</text>
+      <rect class="rise2" x="84" y="186" width="64" height="3" rx="1.5" fill="url(#ink)"/>
+      <text class="rise3" x="84" y="226" font-size="20" fill="#CBD5E1" letter-spacing=".4">AI/ML Engineer  ·  Computer Vision  ·  Medical AI</text>
+      <text class="rise3" x="84" y="262" font-family="'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#94A3B8" letter-spacing="1">IEEE Best Paper 2026  /  MiMD Lab, IIT Delhi  /  VIT-AP '27</text>
+    </g>
+
+    <rect x=".5" y=".5" width="1199" height="339" rx="22" fill="none" stroke="#A78BFA" stroke-opacity=".18"/>
+  </g>
+</svg>
