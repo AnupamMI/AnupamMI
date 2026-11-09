@@ -4,10 +4,6 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="46" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="46" alt="Email"/></a>
-
-<br/>
-
 **Lucknow, India** &nbsp;·&nbsp; **B.Tech CSE (AI & ML), VIT-AP '27** &nbsp;·&nbsp; **CGPA 8.7 / 10**
 
 </div>
@@ -129,6 +125,6 @@ A Deep Recurrent Q-Network for belief-state estimation in POMDPs, with **~23% hi
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="40" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="62" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="62" alt="Email"/></a>
 
 </div>
