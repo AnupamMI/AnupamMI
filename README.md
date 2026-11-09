@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="46" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="46" alt="Email"/></a>&nbsp;<a href="https://annotation-exe.onrender.com/demo/"><img src="./btn-demo.svg" height="46" alt="Live demo"/></a>&nbsp;<img src="./btn-research.svg" height="46" alt="Open to research"/>
+<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="46" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="46" alt="Email"/></a>
 
 <br/>
 
@@ -129,6 +129,6 @@ A Deep Recurrent Q-Network for belief-state estimation in POMDPs, with **~23% hi
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="40" alt="Email"/></a>&nbsp;<a href="https://annotation-exe.onrender.com/demo/"><img src="./btn-demo.svg" height="40" alt="Live demo"/></a>
+<a href="https://www.linkedin.com/in/anupam-mishra-662b8721a/"><img src="./btn-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;<a href="mailto:anupsm.mishra123@gmail.com"><img src="./btn-email.svg" height="40" alt="Email"/></a>
 
 </div>
