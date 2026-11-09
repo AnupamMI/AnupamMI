@@ -1,104 +1,104 @@
-<div align="center">
-
 # Anupam Mishra
 
 AI/ML Engineer · Computer Vision · Medical AI
 
-<sub>Lucknow, India &nbsp;·&nbsp; B.Tech CSE (AI & ML), VIT-AP '27</sub>
+<br>
 
-</div>
+I build computer-vision systems for medical diagnostics. Right now I’m working on AI-assisted cervical cytology screening running on the edge (NVIDIA Jetson AGX Orin), with IEC 62304-aligned documentation.
 
-<br/>
+On the research side I work on belief-state learning in POMDPs with deep recurrent RL, which earned an IEEE Best Paper Award.
 
-I build computer-vision systems for medical diagnostics. Right now that means AI-assisted cervical cytology screening on the edge (NVIDIA Jetson AGX Orin), backed by IEC 62304-aligned documentation. In research, I study belief-state learning in POMDPs with deep recurrent reinforcement learning.
+📍 Lucknow, India · B.Tech CSE (AI & ML), VIT-AP ’27 · CGPA 8.7/10
 
-<br/>
-
----
+<br>
 
 ### Now
+**AI/ML Intern** · Ayukriyam × MiMD Lab, IIT Delhi  
+Cytology classification, detection, and regulatory documentation.
 
-**AI/ML Intern** — Ayukriyam Innovations × MiMD Lab, IIT Delhi  
-<sub>Cytology classification and detection · dataset engineering · regulatory documentation</sub>
+**Focus**  
+Computer Vision · Deep RL · Computational Pathology · Edge AI
 
-**Focus** — Computer Vision · Computational Pathology · Deep RL · Edge AI
-
-<br/>
-
----
+<br>
 
 ### Highlights
+- **IEEE Best Paper** — ICICGR 2026
+- **91.94% Macro-F1** — 4-class cervical cytology on Jetson AGX Orin
+- **1st Place** — APPTHETICS 3.0 (CareLink)
+- **Best Socially Relevant Project** — Engineering Clinics Expo (Sign Talk)
 
-- **IEEE Best Paper Award** — ICICGR 2026, for DRQN-based belief-state learning
-- **91.94% macro-F1** — 4-class cervical cytology classification on Jetson AGX Orin
-- **Annotation ExE** — full-stack annotation platform with whole-slide imaging, now live
-- **1st Place, APPTHETICS 3.0** — CareLink, an AI health app
+<br>
 
-<br/>
+### Currently Building
 
----
+**AI pipeline for cervical-cell cytology screening**  
+Ayukriyam Innovations × MiMD Lab, IIT Delhi · Jul 2026 – Present
 
-### Selected Work
+- **Classification** — 4-class (NILM · LSIL · HSIL · SCC) pipeline. Best result: EfficientNet-B0 V2, 91.94% test macro-F1 with TTA
+- **Detection** — Benchmarking RF-DETR, DETR and DINO with CVAT annotation
+- **Research** — 54-page literature review across 20+ papers
+- **Regulatory** — IEC 62304-aligned SRTD / SVVP for ScopeX (67 requirements with full traceability)
 
-**[Annotation ExE](https://annotation-exe.onrender.com)** &nbsp;·&nbsp; [live demo →](https://annotation-exe.onrender.com/demo/)  
-An image annotation platform, from microscope slides to drone photos. People make every labeling decision, and the software handles the data work around them. It streams 46,000 × 32,893 px whole-slide images as on-demand tiles, imports and exports YOLO, COCO and CVAT, and answers plain-language questions through read-only SQL.  
-<sub>React · TypeScript · FastAPI · PostgreSQL + PostGIS · OpenSlide · Docker</sub>
+**Annotation Platform** (in development)  
+AI-native computer-vision annotation tool designed as a better alternative to CVAT, starting with cytology and whole-slide images.
 
-**[Belief-State Learning in Partially Observable Environments using DRQN](https://github.com/AnupamMI/DRQN_POMDP_Project)**  
-IEEE ICICGR 2026 · Best Paper. A recurrent Q-network for belief-state estimation in POMDPs, with ~23% higher cumulative reward than DQN across 16 seeds.  
-<sub>Python · PyTorch · LSTM</sub>
+<br>
+
+### Publication
+
+**Belief-State Learning in Partially Observable Environments using DRQN**  
+IEEE ICICGR 2026 · Best Paper Award  
+Deep Recurrent Q-Network for belief-state estimation in POMDPs — ~23% higher cumulative reward than DQN across 16 seeds.  
+[Code](https://github.com/AnupamMI/DRQN_POMDP_Project)
+
+<br>
+
+### Selected Projects
+
+**[Deep RL Research Platform](https://github.com/AnupamMI/DRQN_POMDP_Project)**  
+Configurable POMDP gridworld comparing DQN vs DRQN. Basis of the Best Paper.  
+`Python` `PyTorch` `LSTM`
 
 **[CareLink](https://github.com/AnupamMI/CareLink)**  
-An AI health app for medication tracking, fitness monitoring and the CareScore metric.  
-<sub>React Native · Expo · TypeScript</sub>
+AI health app with medication tracking, fitness monitoring, and CareScore metric. 1st Place at APPTHETICS 3.0.  
+`React Native` `Expo` `TypeScript`
 
 **[Sign Talk](https://github.com/AnupamMI/Smart-Glove-Safety-Device)**  
-A wearable glove that fuses multiple sensors to turn ASL gestures into real-time text. Won Best Socially Relevant Project.  
-<sub>C++ · Arduino · IoT</sub>
+Wearable multi-sensor system that converts ASL gestures into real-time text. Best Socially Relevant Project.  
+`C++` `Arduino` `IoT`
 
-<details>
-<summary><sub>More projects</sub></summary>
-<br/>
+**[J.A.R.V.I.S. Voice Dashboard](https://github.com/AnupamMI/Jarvis)**  
+Browser voice assistant with a reactive Three.js orb and Groq-powered commands.  
+`React` `Three.js` `Web Speech API`
 
-**[J.A.R.V.I.S. Voice Dashboard](https://github.com/AnupamMI/Jarvis)** — browser voice assistant with a voice-reactive Three.js orb  
-**[AI Skill Gap Radar](https://github.com/AnupamMI/skill-gap-radar)** — maps resume skills to roles and ranks learning paths  
-**[AI Contract Analyzer](https://github.com/AnupamMI/ai-contract-analyzer)** — flags key clauses and legal risks in contracts
-
-</details>
-
-<br/>
-
----
+<br>
 
 ### Experience
 
-**AI/ML Intern** · Ayukriyam Innovations — MiMD Lab, IIT Delhi &nbsp; <sub>Jul 2026 – now</sub>  
-**Digital Outreach Intern** · Australasian Centre for Human Rights and Health &nbsp; <sub>Jun – Jul 2026</sub>  
-**Technical Team Lead** · Microsoft Student Chapter, VIT-AP &nbsp; <sub>Oct 2024 – Apr 2026</sub>
+| Period | Role | Notes |
+|--------|------|-------|
+| Jul 2026 – Present | AI/ML Intern · Ayukriyam × MiMD Lab, IIT Delhi | Cervical-cell CV pipeline + regulatory docs |
+| Jun – Jul 2026 | Digital Outreach Intern · Australasian Centre for Human Rights and Health | Site audit and growth framework |
+| Oct 2024 – Apr 2026 | Technical Team Lead · Microsoft Student Chapter, VIT-AP | Led 30-member chapter, 5+ workshops |
+| 2023 – 2024 | Core Member · Machine Learning Club, VIT-AP | 3+ ML models across 10+ sessions |
 
-<br/>
+<br>
+
+### Tech
+
+**AI / ML / CV**  
+Python · PyTorch · TensorFlow · OpenCV · Scikit-learn · NVIDIA Jetson
+
+**Web & Mobile**  
+React · Next.js · TypeScript · Tailwind
+
+**Backend & Tools**  
+FastAPI · Docker · PostgreSQL · Git · AWS
+
+<br>
 
 ---
 
-### Stack
+Open to research collaborations, applied ML/CV roles, and interesting builds.
 
-```
-ml        python · pytorch · tensorflow · scikit-learn · opencv · nvidia jetson
-web       typescript · react · next.js · tailwind
-backend   fastapi · flask · postgresql · postgis · redis
-infra     docker · github actions · aws · linux · git
-```
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>Open to research collaborations and applied ML / CV roles.</sub>
-
-<br/>
-
-[LinkedIn](https://www.linkedin.com/in/anupam-mishra-662b8721a/) &nbsp;·&nbsp; [Email](mailto:anupsm.mishra123@gmail.com) &nbsp;·&nbsp; AWS Certified AI Practitioner
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/anupam-mishra-662b8721a/) · [Email](mailto:anupsm.mishra123@gmail.com)
