@@ -15,7 +15,7 @@
 
 <br/>
 
-I build computer-vision systems for medical diagnostics. Currently developing AI-assisted cervical cytology screening that runs on the edge (NVIDIA Jetson AGX Orin), with IEC 62304-aligned documentation.
+I build computer-vision systems for medical diagnostics. Currently developing AI-assisted cervical cytology screening that runs on the edge (NVIDIA Jetson AGX Orin)
 
 On the research side, I work on belief-state learning in POMDPs using deep recurrent RL — work that received an IEEE Best Paper Award.
 
@@ -52,7 +52,6 @@ On the research side, I work on belief-state learning in POMDPs using deep recur
 
 - **Classification** — 4-class pipeline (NILM · LSIL · HSIL · SCC). Best: EfficientNet-B0 V2 → **91.94% test macro-F1** with TTA
 - **Detection** — Benchmarking RF-DETR, DETR and DINO with structured annotation
-- **Research** — 54-page literature review across 20+ papers on AI in computational pathology
 
 **[Annotation ExE](https://annotation-exe.onrender.com)** · [Live Demo](https://annotation-exe.onrender.com/demo/)  
 Full-stack image annotation platform for whole-slide images and general computer vision. Supports YOLO / COCO / CVAT import-export.  
